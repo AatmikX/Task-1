@@ -1,3 +1,3 @@
 THE SPARKS FOUNDATION
 # Task-1
-Prediction using Unsupervised / Supervised ML (Level - Beginner)
+Prediction using Unsupervised ML (Level - Beginner)
